@@ -1,1 +1,1 @@
-# java-lecture
+# java-gamedevelopment as lecture
